@@ -1,0 +1,3 @@
+all:
+	elixir simple.exs
+
